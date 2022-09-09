@@ -50,7 +50,7 @@ padding-left: 200px;
 .d1{
 	width: 1190px;
 	height: 1064px;
-	background: url(../img/Ellipse_1_copy.png)  no-repeat;
+	background: url(Ellipse_1_copy.png)  no-repeat;
 	margin: 106px 0 0 5px;
 	background-position: 100px 65px;
 	background-size: 1000px 900px;
@@ -107,7 +107,7 @@ height: 19px;
 .ul1 li{
 	padding-left: 30px;
 	margin-bottom: 10px;
-	background: url(../img/check_icon.png) left no-repeat;
+	background: url(check_icon.png) left no-repeat;
 }
 .li1 {width: 421px;
 	text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);
